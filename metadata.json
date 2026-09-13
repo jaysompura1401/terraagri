@@ -1,0 +1,6 @@
+{
+  "name": "TerraAgri - Agricultural Commerce & Agri-Input Hub",
+  "description": "Comprehensive agri-commerce platform providing certified seeds, crop protection, nutrition, farm delivery tracking, and live mandi advisory.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
